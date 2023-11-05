@@ -8,6 +8,67 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Programme
 
+React  FHndamentałs-
+0:00:00- Intro & Topics to learn in this video
+0:01:54 - Setup
+0:02:42 - Create React App
+0:04:05 - Start React Development Environment
+0:04:23 - Understand React App Folder Structure
+0:07:15 - Contact App Folder Structure/ Components
+0:08:55 - React "Hello World" Component
+0:09:18 - Adding Sematic Ul to Project
+0:10:03 - Understand React Components
+
+0:11:53 - React JSX
+0:13:00-Function Component
+0:15:18 - Class Component
+0:19:13 - Rendering List in React
+0:20:08 - Props - Pass data from parent to child
+0:20:36 - Access Props
+
+0:22:55- Reterence variable in JSX
+0:24:34 - Adding In-line Style
+0:27:19 - Add images in React
+0:28:46 - useState React Hook
+0:33:02- Pass Function as Prop
+0:34:09 - Update the State using setState)
+0:36:06 - useEffect React Hook
+
+React ROUter
+
+0:46:13 - React Router Intro
+0:47:29- Install React Router DOM package
+0:48:25- Verify instaled package
+0:49:16 - Create React Route for application
+0:52:27 - Switch and exact
+0:57:18 - Passing props in route component
+1:00:02 - Passing props with route render
+1:02:37 - Programmatic navigation with history
+1:05:02 - Use Link for route
+1:11:18 - Pass data in route state
+1:12:51 - Access route state
+
+React GRUD Axies-
+
+1:17:30 - Setting up JSON-SERVER
+1:18:53-Understand Rest APl convention
+1:19:32 - Create Contacts Resource
+1:21:18 - Start JSON-SERVER
+1:22:17 - Install AXIOS package
+1:23:45 - Fetch All Contacts (READ)
+1:27:23 - Add new Contact (CREATE)
+1:30:37 - Delete a Contact (DELETE)
+1:32:00 - Create an Edit component
+1:37:35 - Edit Contact (UPDATE)
+
+React Seareh-
+
+1:41:57- Adding Search bar JSX
+1:43:24 - Adding useState Hook
+1:45:49 - Add State to Input Element
+1:46:31 - Adding useRef Hook
+1:49:24 -Search Filter with Array Filter Method
+1:55:30 - Testing & Outro
 
 ## Available Scripts
 

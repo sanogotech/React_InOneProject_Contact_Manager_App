@@ -9,10 +9,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Programme
 
 React  FHndamentałs-
-0:00:00- Intro & Topics to learn in this video
-0:01:54 - Setup
-0:02:42 - Create React App
-0:04:05 - Start React Development Environment
+
+- Intro & Topics to learn in this video
+- Setup
+- Create React Ap
+- Start React Development 
+Environment
 0:04:23 - Understand React App Folder Structure
 0:07:15 - Contact App Folder Structure/ Components
 0:08:55 - React "Hello World" Component
